@@ -59,7 +59,7 @@ const projects = [
         'https://ik.imagekit.io/affan/Projects/Academic%20Ally%20Web%20App/devices_mockup_3.png',
         'https://ik.imagekit.io/affan/Projects/Academic%20Ally%20Web%20App/ddd.png',
       ],
-      link: 'https://app.getacademically.co',
+      link: 'https://academic-ally.netlify.app',
       banner: 'https://ik.imagekit.io/affan/Projects/Academic%20Ally%20Web%20App/2.png'
     },
     {
@@ -88,31 +88,31 @@ const projects = [
       link: 'https://github.com/affan880/Worketzy',
       banner: 'https://ik.imagekit.io/affan/Projects/worketzy/4.png'
     },
-    {
-      id: 11,
-      title: 'JawesomeScript',
-      tagLine: 'Unleashing JavaScript Awesomeness, One Project at a Time.',
-      description: "JawesomeScript is your go-to platform for exploring a curated collection of basic JavaScript projects. Dive into the world of coding creativity and discover the awesomeness of JavaScript through simple yet impactful projects. Whether you're a beginner or an experienced developer, JawesomeScript has something for everyone. Elevate your JavaScript skills and embark on a journey of continuous learning with our diverse range of projects. Join the community of JavaScript enthusiasts, and let's make coding more awesome together!",
-      techStack: ['HTML', 'CSS', 'Javascript'],
-      logo:'https://ik.imagekit.io/affan/Projects/JawesomeScript/JavaScript-logo.png',
-      company: 'Defun',
-      countries: 'Global',
-      language: 'English',
-      category: 'Programming',
-      platforms: ['Android', 'iOS'],
-      screenshots: [
-        'https://ik.imagekit.io/affan/Projects/JawesomeScript/devices_mockup_6.png',
-        'https://ik.imagekit.io/affan/Projects/JawesomeScript/projects.png',
-        'https://ik.imagekit.io/affan/Projects/JawesomeScript/todo.png'
-      ],
-      link: '',
-      banner: 'https://ik.imagekit.io/affan/Projects/JawesomeScript/6.png'
-    }
+    // {
+    //   id: 11,
+    //   title: 'JawesomeScript',
+    //   tagLine: 'Unleashing JavaScript Awesomeness, One Project at a Time.',
+    //   description: "JawesomeScript is your go-to platform for exploring a curated collection of basic JavaScript projects. Dive into the world of coding creativity and discover the awesomeness of JavaScript through simple yet impactful projects. Whether you're a beginner or an experienced developer, JawesomeScript has something for everyone. Elevate your JavaScript skills and embark on a journey of continuous learning with our diverse range of projects. Join the community of JavaScript enthusiasts, and let's make coding more awesome together!",
+    //   techStack: ['HTML', 'CSS', 'Javascript'],
+    //   logo:'https://ik.imagekit.io/affan/Projects/JawesomeScript/JavaScript-logo.png',
+    //   company: 'Defun',
+    //   countries: 'Global',
+    //   language: 'English',
+    //   category: 'Programming',
+    //   platforms: ['Android', 'iOS'],
+    //   screenshots: [
+    //     'https://ik.imagekit.io/affan/Projects/JawesomeScript/devices_mockup_6.png',
+    //     'https://ik.imagekit.io/affan/Projects/JawesomeScript/projects.png',
+    //     'https://ik.imagekit.io/affan/Projects/JawesomeScript/todo.png'
+    //   ],
+    //   link: '',
+    //   banner: 'https://ik.imagekit.io/affan/Projects/JawesomeScript/6.png'
+    // }
   ];
   
   const aboutMe = {
     name: 'Mohammad Izhaar Ahmed',
-    bio: 'Junior Software Developer | Front End Developer',
+    bio: 'Software Development instructor',
     phone: '+91 96660 41007',
     skills: [
       // Development skills
