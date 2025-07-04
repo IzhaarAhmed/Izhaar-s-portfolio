@@ -112,7 +112,7 @@ const projects = [
   
   const aboutMe = {
     name: 'Mohammad Izhaar Ahmed',
-    bio: 'Software Development instructor',
+    bio: 'Full Stack Developer | Software Development Instructor',
     phone: '+91 96660 41007',
     skills: [
       // Development skills
@@ -148,8 +148,8 @@ const projects = [
     ],
     email: "izhaarahmed94@gmail.com",
     web: 'https://izhaarahmed.in',
-    webName: 'izhaarahmed.in',
-    image: 'https://ik.imagekit.io/affan/Projects/Izhaar/PHOTO-2025-06-24-07-35-22.jpg?updatedAt=1750854397952'
+    webName: 'izhaarahmed.dev',
+    image: 'https://ik.imagekit.io/nxetcvdg2/9D1DEE6B-39BA-4AA5-B0D6-2998160E983F.JPEG?updatedAt=1751622350743'
   };
   
   const socialLinks = {

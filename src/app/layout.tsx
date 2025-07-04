@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     title: 'Mohammad Izhaar Ahmed | Junior Software Developer',
     description: 'Dynamic Junior Software Developer specializing in front-end development with expertise in HTML, CSS, JavaScript, Python, and modern development tools.',
     images: [{
-      url: 'https://ik.imagekit.io/affan/Projects/Izhaar/E2C6B97C-8165-4D7A-BC40-EA81BD1F6798.jpg?updatedAt=1750680961039',
+      url:'https://ik.imagekit.io/nxetcvdg2/9D1DEE6B-39BA-4AA5-B0D6-2998160E983F.JPEG?updatedAt=1751622350743',
       width: 1200,
       height: 630,
       alt: 'Mohammad Izhaar Ahmed'
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Mohammad Izhaar Ahmed | Junior Software Developer',
     description: 'Dynamic Junior Software Developer specializing in front-end development with expertise in HTML, CSS, JavaScript, Python, and modern development tools.',
-    images: ['https://ik.imagekit.io/affan/Projects/Izhaar/E2C6B97C-8165-4D7A-BC40-EA81BD1F6798.jpg?updatedAt=1750680961039'],
+    images: ['https://ik.imagekit.io/nxetcvdg2/9D1DEE6B-39BA-4AA5-B0D6-2998160E983F.JPEG?updatedAt=1751622350743'],
   },
   viewport: {
     width: 'device-width',

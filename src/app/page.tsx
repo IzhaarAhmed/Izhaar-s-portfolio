@@ -21,7 +21,7 @@ export default function Home() {
   const y = useTransform(scrollYProgress, [0, 1], ["0%", "30%"])
   const opacity = useTransform(scrollYProgress, [0, 0.5, 1], [1, 0.8, 0.3])
 
-  const navigationItems = ['About', 'Projects', 'Contact']
+  const navigationItems = ['About', 'Experience', 'Projects', 'Contact']
 
   const toggleMobileMenu = () => {
     setMobileMenuOpen(!mobileMenuOpen)
@@ -280,7 +280,7 @@ export default function Home() {
                 </div>
               </div>
             </motion.div>
-            
+        
             <motion.div
               initial={{ opacity: 0, x: 30 }}
               whileInView={{ opacity: 1, x: 0 }}
@@ -306,7 +306,24 @@ export default function Home() {
           </div>
         </div>
       </section>
-
+{/* Experience Section */}
+      <section id="experience" className="py-16 sm:py-32 px-4 sm:px-6">
+        <div className="max-w-6xl mx-auto">
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5 }}
+            viewport={{ once: true, margin: "-100px" }}
+            className="text-center mb-12 sm:mb-20"
+          >
+            <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-black mb-6">
+              Experience
+            </h2>
+            <div className="w-20 h-1 bg-black mx-auto mb-8"></div>
+          </motion.div>
+          <Experience />
+        </div>
+      </section>
 
       {/* Projects Section */}
       <section id="projects" className="py-16 sm:py-32 px-4 sm:px-6 bg-black/[0.02]">
