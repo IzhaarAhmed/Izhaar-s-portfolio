@@ -2,20 +2,18 @@ const joinWithPipe = (array) => array.join(" | ");
 const projects = [
     {
       id: 1,
-      title: 'Altariz Solutions',
-      tagLine: 'Designing High-Performance Software Solutions',
-      description: "As a Junior Software Engineer at Altariz Solutions, I specialized in developing high-volume, low-latency applications with a focus on performance and scalability. Key responsibilities and achievements include:<br/><br/>• Designed and developed robust software solutions that prioritized high availability and optimal performance<br/>• Actively participated in all phases of the software development lifecycle, from requirements gathering to deployment<br/>• Wrote well-designed, testable, and efficient code following best practices and design patterns<br/>• Collaborated with the QA team to ensure thorough testing and bug-free deliverables<br/>• Implemented continuous improvement strategies that enhanced code quality and reduced technical debt<br/>• Participated in code reviews and provided constructive feedback to team members<br/>• Maintained comprehensive documentation for all developed features and systems",
-      techStack: ['Software Development', 'Low-latency Applications', 'Code Testing', 'Performance Optimization', 'Documentation', 'Code Review', 'Quality Assurance'],
-      company: 'Altariz Solutions Pvt Ltd',
-      logo: 'https://ik.imagekit.io/affan/Projects/fintrack-logo.png',
+      title: 'StudySprint',
+      tagLine: 'Your Daily Dose of Smart Learning.',
+      description: "StudySprint is a cutting-edge web application designed to revolutionize the way students approach their studies. With a focus on enhancing productivity and efficiency, StudySprint offers a range of features that empower students to optimize their learning experience. <br/><br/> The platform provides a comprehensive suite of tools, including a Pomodoro timer to help students manage their study sessions effectively, a note-taking feature for organized and accessible study materials, and a quiz section to reinforce learning through interactive assessments. Additionally, StudySprint offers a personalized dashboard that allows users to track their progress and set study goals.",
+      techStack: ['React.js', 'Low-latency Applications', 'Tailwind CSS', 'Babel', 'Netlify', 'TypeScript', 'Next.js'],
+      company: 'Izhaar develops',
+      logo: 'https://ik.imagekit.io/nxetcvdg2/ChatGPT%20Image%20Jul%2010,%202025,%2002_43_41%20PM.png?updatedAt=1752138869417',
       countries: 'India',
       language: 'English',
-      category: 'Professional Experience',
-      platforms: ['Web', 'Enterprise Software'],
-      duration: '08/2023 - 01/2024',
-      location: 'Hyderabad, India',
-      link: 'https://altarizsolutions.com',
-      banner: 'https://ik.imagekit.io/affan/Projects/fintrack-logo.png'
+      category: 'Education',
+      platforms: ['Web'],
+      link: 'https://studysprints.netlify.app/',
+      banner: 'https://ik.imagekit.io/nxetcvdg2/Image.jfif?updatedAt=1752141095148'
     },
     {
       id: 6,
@@ -23,7 +21,7 @@ const projects = [
       tagLine: 'Your go-to source for academic resources!',
       description: "Academic Ally is a comprehensive platform designed to empower students in their academic pursuits and support them throughout their educational journey. we understand the challenges faced by students during their academic journey. We recognize that engineering students require specialized support to excel in their courses, and that's why we have dedicated our platform exclusively to their needs. <br/><br/> Our platform offers a vast collection of academic resources, we provide Academic notes, Syllabus, Question Papers and Other Resources. In addition to the rich collection of educational materials, we also offer a range of valuable features to enhance your learning experience.",
       techStack: ['Javascript','React-Native', 'Firebase', 'react-redux'],
-      company: 'Defun',
+      company: 'Izhaar develops',
       logo:'https://ik.imagekit.io/affan/Projects/Academic%20ally%20app/ic_launcher-web.png',
       countries: 'Global',
       language: 'English',
@@ -69,7 +67,7 @@ const projects = [
       description: "This app was conceived as part of a mini-project with a singular goal: to revolutionize and simplify the hiring process. As the mastermind behind this endeavor, I crafted a platform that streamlines every aspect of hiring, making it not just easy but better.",
       techStack: ['React-Native', 'Firebase', 'Expo', 'Javascript'],
       logo:'https://ik.imagekit.io/affan/Projects/worketzy/Worketzy.png',
-      company: 'Defun',
+      company: 'Izhaar develops',
       countries: 'Global',
       language: 'English',
       category: 'Career Services',
@@ -85,7 +83,7 @@ const projects = [
         'https://ik.imagekit.io/affan/Projects/worketzy/10.png',
         'https://ik.imagekit.io/affan/Projects/worketzy/1.png',
       ],
-      link: 'https://github.com/affan880/Worketzy',
+      link: 'https://github.com/IzhaarAhmed/Worketzy',
       banner: 'https://ik.imagekit.io/affan/Projects/worketzy/4.png'
     },
     // {
@@ -146,14 +144,14 @@ const projects = [
       'Best Project 2023 in CSE branch',
       'AVNIET Computer Society Vice Chair 2022'
     ],
-    email: "izhaarahmed94@gmail.com",
+    email: "izhaarahmed794@gmail.com",
     web: 'https://izhaarahmed.in',
     webName: 'izhaarahmed.dev',
     image: 'https://ik.imagekit.io/nxetcvdg2/9D1DEE6B-39BA-4AA5-B0D6-2998160E983F.JPEG?updatedAt=1751622350743'
   };
   
   const socialLinks = {
-    email: "izhaarahmed94@gmail.com",
+    email: "izhaarahmed794@gmail.com",
     github: 'https://github.com/IzhaarAhmed',
     linkedin: 'https://linkedin.com/in/izhaarahmed',
     resume: "https://ik.imagekit.io/affan/Projects/Izhaar/Izhaar's_Resume.pdf?updatedAt=1750854397547",
