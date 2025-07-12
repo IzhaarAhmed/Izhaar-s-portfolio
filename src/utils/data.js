@@ -8,12 +8,19 @@ const projects = [
       techStack: ['React.js', 'Low-latency Applications', 'Tailwind CSS', 'Babel', 'Netlify', 'TypeScript', 'Next.js'],
       company: 'Izhaar develops',
       logo: 'https://ik.imagekit.io/nxetcvdg2/ChatGPT%20Image%20Jul%2010,%202025,%2002_43_41%20PM.png?updatedAt=1752138869417',
-      countries: 'India',
+      countries: 'Global',
       language: 'English',
       category: 'Education',
       platforms: ['Web'],
+      screenshots: [
+        'https://ik.imagekit.io/nxetcvdg2/image.png?updatedAt=1752146645445',
+        'https://ik.imagekit.io/nxetcvdg2/image(1).png?updatedAt=1752146867013',
+        'https://ik.imagekit.io/nxetcvdg2/image.png?updatedAt=1752146961626',
+        
+      ],
       link: 'https://studysprints.netlify.app/',
       banner: 'https://ik.imagekit.io/nxetcvdg2/Image.jfif?updatedAt=1752141095148'
+      
     },
     {
       id: 6,

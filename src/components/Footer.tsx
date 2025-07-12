@@ -69,7 +69,7 @@ export default function Footer() {
               <FiLinkedin className="w-5 h-5" />
             </a>
             <a 
-              href={`mailto:${socialLinks.email}`}
+              href={'mailto:'+socialLinks.email}
               className="w-10 h-10 rounded-full flex items-center justify-center bg-slate-200 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-primary-100 dark:hover:bg-primary-900/30 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
               aria-label="Email"
             >
@@ -79,7 +79,7 @@ export default function Footer() {
           
           {/* Copyright */}
           <div className="text-center text-slate-600 dark:text-slate-400 text-sm">
-            <p>© {currentYear} Syed Affan. All rights reserved.</p>
+            <p>© {currentYear} Mohammad Izhaar Ahmed. All rights reserved.</p>
             <p className="mt-2">
               Full Stack Developer specializing in modern web and mobile applications.
             </p>
